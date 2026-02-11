@@ -53,6 +53,7 @@ $ status
   <img src="https://img.shields.io/badge/Android_Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=BD34FE&height=2"/>
+
 # 📊 Estadísticas
 
 <img 

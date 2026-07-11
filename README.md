@@ -39,9 +39,10 @@ Profundizando en arquitectura de software, diseño de APIs y backend con Python,
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-Pako&amp;layout=compact&amp;langs_count=8&amp;hide_border=false&amp;bg_color=00000000&amp;border_color=B8DCE6&amp;title_color=4F8796&amp;text_color=7D8590&amp;custom_title=Distribuci%C3%B3n%20estimada"
-    alt="Lenguajes más utilizados en los repositorios públicos de Agustín Choque"
+    width="440"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-Pako&layout=compact&langs_count=8&card_width=440&hide_border=false&border_radius=8&bg_color=00000000&border_color=B8DCE6&title_color=4F8796&text_color=7D8590&custom_title=Lenguajes%20en%20repositorios%20p%C3%BAblicos&cache_seconds=86400"
+    alt="Distribución de lenguajes en los repositorios públicos de Agustín Choque"
   >
   <br>
-  <sub>Distribución estimada a partir de los repositorios públicos del perfil.</sub>
+  <sub>Calculado a partir del código detectado en mis repositorios públicos.</sub>
 </div>

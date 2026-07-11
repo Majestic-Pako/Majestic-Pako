@@ -1,63 +1,47 @@
-<!-- TYPING EFFECT -->
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=BD34FE&vCenter=true&width=650&lines=Agustin+Choque;Analista+de+Sistemas" 
-/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BD34FE&height=2"/>
+<div align="center">
 
-## 🧠 Sobre mí
+# Agustín Choque
 
-```bash
-$ whoami
-> Desarrollador Junior
+### Programador · Estudiante avanzado de Analista de Sistemas
 
-$ focus
-> Redes • UI/UX • Desarrollo Web • Apps Android
+Desarrollo soluciones de software orientadas a procesos reales, priorizando claridad, mantenibilidad y una buena organización del código.
 
-$ stack
-> Java • React • Laravel • MySQL
+`Angular` · `TypeScript` · `APIs REST` · `SQL`
 
-$ status
-> En aprendizaje constante y construyendo soluciones escalables
-```
+</div>
+
+<img src="./assets/divider.svg" width="100%" height="2" alt="">
+
+Trabajo principalmente en aplicaciones web y sistemas internos con Angular y TypeScript, integrando formularios, lógica de negocio, APIs REST y bases de datos SQL.
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BD34FE&height=2"/>
+## Tecnologías
 
-## 🚀 Stack Tecnológico
+<h3><img src="./assets/section-marker.svg" width="10" height="10" alt=""> Stack principal</h3>
 
-## 💻 Desarrollo
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4"/>
-  <img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</p>
+<img src="./assets/badges/angular.svg" height="30" alt="Angular"> <img src="./assets/badges/typescript.svg" height="30" alt="TypeScript"> <img src="./assets/badges/javascript.svg" height="30" alt="JavaScript"> <img src="./assets/badges/html5.svg" height="30" alt="HTML5"> <img src="./assets/badges/css.svg" height="30" alt="CSS"> <img src="./assets/badges/adonisjs.svg" height="30" alt="AdonisJS"> <img src="./assets/badges/sql-server.svg" height="30" alt="SQL Server"> <img src="./assets/badges/git.svg" height="30" alt="Git">
 
-## 🗄️ Bases de Datos
-<p>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-</p>
+<h3><img src="./assets/section-marker.svg" width="10" height="10" alt=""> También trabajo con</h3>
 
-## 🛠️ Herramientas & IDEs
-<p>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Eclipse-111111?style=for-the-badge&logo=eclipse&logoColor=2C2255"/>
-  <img src="https://img.shields.io/badge/Android_Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
-</p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BD34FE&height=2"/>
+<img src="./assets/badges/python.svg" height="30" alt="Python"> <img src="./assets/badges/fastapi.svg" height="30" alt="FastAPI"> <img src="./assets/badges/django.svg" height="30" alt="Django"> <img src="./assets/badges/vue.svg" height="30" alt="Vue.js"> <img src="./assets/badges/mysql.svg" height="30" alt="MySQL"> <img src="./assets/badges/docker.svg" height="30" alt="Docker">
 
-# 📊 Estadísticas
+<h3><img src="./assets/section-marker.svg" width="10" height="10" alt=""> Herramientas</h3>
 
-<img 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Majestic-Pako&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD34FE&text_color=FFFFFF" 
-/>
+<img src="./assets/badges/github.svg" height="30" alt="GitHub"> <img src="./assets/badges/postman.svg" height="30" alt="Postman"> <img src="./assets/badges/vscode.svg" height="30" alt="Visual Studio Code">
 
+## Actualmente
 
+Profundizando en arquitectura de software, diseño de APIs y backend con Python, junto con la organización de aplicaciones mantenibles y entornos reproducibles mediante Docker.
+
+<img src="./assets/divider.svg" width="100%" height="2" alt="">
+
+## Distribución de lenguajes
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-Pako&amp;layout=compact&amp;langs_count=8&amp;hide_border=false&amp;bg_color=00000000&amp;border_color=B8DCE6&amp;title_color=4F8796&amp;text_color=7D8590&amp;custom_title=Distribuci%C3%B3n%20estimada"
+    alt="Lenguajes más utilizados en los repositorios públicos de Agustín Choque"
+  >
+  <br>
+  <sub>Distribución estimada a partir de los repositorios públicos del perfil.</sub>
+</div>
